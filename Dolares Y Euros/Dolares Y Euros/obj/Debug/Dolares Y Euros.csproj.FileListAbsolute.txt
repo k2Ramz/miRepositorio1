@@ -1,0 +1,11 @@
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\bin\Debug\Dolares Y Euros.exe.config
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\bin\Debug\Dolares Y Euros.exe
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\bin\Debug\Dolares Y Euros.pdb
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares Y Euros.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares_Y_Euros.Form1.resources
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares_Y_Euros.Properties.Resources.resources
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares Y Euros.csproj.GenerateResource.Cache
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares Y Euros.exe
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares Y Euros.pdb
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares_Y_Euros.Form2.resources
+c:\users\omar\documents\visual studio 2015\Projects\Dolares Y Euros\Dolares Y Euros\obj\Debug\Dolares_Y_Euros.Form3.resources
